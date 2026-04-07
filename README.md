@@ -52,7 +52,7 @@ alt="github follow"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<p><img align="center" src="https://raw.githubusercontent.com/jreyes-s/jreyes-s/667c32cfe81ef8cd755a53cf4ffd13f00d4165c5/github-metrics.svg" alt="Metrics" width="800" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/jreyes-s/jreyes-s/refs/heads/main/github-metrics.svg" alt="Metrics" width="800" /></p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
