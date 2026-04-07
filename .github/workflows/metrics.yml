@@ -24,3 +24,5 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
+          plugin_isocalendar: yes
+          plugin_people: yes
