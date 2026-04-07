@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/followers/jreyes-s?label=Followers&style=for-the-badge&color=purple"
 alt="github follow"/>
 <img src="https://komarev.com/ghpvc/?username=jreyes-s&label=Profile%20views&color=21907b&style=for-the-badge" alt="jreyes-s" /> 
-<a href="mailto:lulietlyan@gmail.com" target="_blank">
+<a href="mailto:jreyes-s@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:jreyes-s-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"t=mail" /></a>
 </p>
 
@@ -17,14 +17,14 @@ alt="github follow"/>
 </p>
 
 <p align="center"> 
-<a href="https://github.com/jreyes-s"><img src="https://raw.githubusercontent.com/jreyes-s/jreyes-s/refs/heads/main/image/SYSU.png" height=50pt alt="lulietlyan" /></a>
-<a href="https://github.com/jreyes-s"><img src="https://raw.githubusercontent.com/jreyes-s/jreyes-s/667c32cfe81ef8cd755a53cf4ffd13f00d4165c5/image/NSCC-GZ.svg" height=50pt alt="lulietlyan" /></a>
+<a href="https://github.com/jreyes-s"><img src="https://raw.githubusercontent.com/jreyes-s/jreyes-s/refs/heads/main/image/SYSU.png" height=50pt alt="jreyes-s" /></a>
+<a href="https://github.com/jreyes-s"><img src="https://raw.githubusercontent.com/jreyes-s/jreyes-s/667c32cfe81ef8cd755a53cf4ffd13f00d4165c5/image/NSCC-GZ.svg" height=50pt alt="jreyes-s" /></a>
 </p>
 
 <h3 align="center">🤗 Connect with me 🤗</h3>
 <p align="center">
-<a href="https://codeforces.com/profile/lulietlyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lulietlyan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lulietlyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lulietlyan" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jreyes-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jreyes-s" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jreyes-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jreyes-s" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">🔧 Languages and Tools 🔧</h3>
@@ -61,4 +61,6 @@ alt="github follow"/>
 
 Credit: [jreyes-s](https://github.com/jreyes-s)
 
-Last Edited on: 27/4/2025
+Last Edited on: 07/4/2026
+=======
+# jreyes-s
