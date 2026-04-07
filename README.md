@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/followers/jreyes-s?label=Followers&style=for-the-badge&color=purple"
 alt="github follow"/>
 <img src="https://komarev.com/ghpvc/?username=jreyes-s&label=Profile%20views&color=21907b&style=for-the-badge" alt="jreyes-s" /> 
-<a href="mailto:jreyes-s@gmail.com" target="_blank">
+<a href="mailto:jreyes-s@student.42madrid.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:jreyes-s-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"t=mail" /></a>
 </p>
 
