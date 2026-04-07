@@ -1,0 +1,37 @@
+name: Trophy
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        run: |
+          set -euo pipefail
+          PRIMARY_URL="https://github-profile-trophy.vercel.app/?username=jreyes-s&theme=buddhism&column=8&margin-w=8&margin-h=8"
+          FALLBACK_URL="https://gh-trophy.cdnsoft.net/?username=jreyes-s&theme=buddhism&column=8&margin-w=8&margin-h=8"
+
+          if ! curl -fsSL "$PRIMARY_URL" -o github-trophy.svg; then
+            curl -fsSL "$FALLBACK_URL" -o github-trophy.svg
+          fi
+
+          grep -q "<svg" github-trophy.svg
+
+      - name: Commit updated trophy
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update github trophy svg"
+          file_pattern: github-trophy.svg

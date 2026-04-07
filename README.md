@@ -13,7 +13,7 @@ alt="github follow"/>
 
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jreyes-s&theme=buddhism" alt="jreyes-s" /></a> 
+<img src="https://raw.githubusercontent.com/jreyes-s/jreyes-s/refs/heads/main/github-trophy.svg" alt="jreyes-s" />
 </p>
 
 <p align="center"> 
